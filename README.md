@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Aplicacion de Notas en REACT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created by Jhon Meza
 
-## Available Scripts
+
+![image](https://user-images.githubusercontent.com/126844380/224568602-6696acf5-84ab-47a5-a2cf-e98912471af2.png)
 
